@@ -1,0 +1,9 @@
+C:\Users\Pane\source\repos\InstagramConsume\InstagramConsume.API\obj\Release\netcoreapp2.1\PubTmp\Out\appsettings.Development.json
+C:\Users\Pane\source\repos\InstagramConsume\InstagramConsume.API\obj\Release\netcoreapp2.1\PubTmp\Out\appsettings.json
+C:\Users\Pane\source\repos\InstagramConsume\InstagramConsume.API\obj\Release\netcoreapp2.1\PubTmp\Out\InstagramConsume.API.dll
+C:\Users\Pane\source\repos\InstagramConsume\InstagramConsume.API\obj\Release\netcoreapp2.1\PubTmp\Out\InstagramConsume.API.runtimeconfig.json
+C:\Users\Pane\source\repos\InstagramConsume\InstagramConsume.API\obj\Release\netcoreapp2.1\PubTmp\Out\InstagramConsume.API.pdb
+C:\Users\Pane\source\repos\InstagramConsume\InstagramConsume.API\obj\Release\netcoreapp2.1\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\Pane\source\repos\InstagramConsume\InstagramConsume.API\obj\Release\netcoreapp2.1\PubTmp\Out\InstagramConsume.Service.dll
+C:\Users\Pane\source\repos\InstagramConsume\InstagramConsume.API\obj\Release\netcoreapp2.1\PubTmp\Out\InstagramConsume.Service.pdb
+C:\Users\Pane\source\repos\InstagramConsume\InstagramConsume.API\obj\Release\netcoreapp2.1\PubTmp\Out\InstagramConsume.API.deps.json

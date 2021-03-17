@@ -1,0 +1,8 @@
+C:\Users\Pane\source\repos\InstagramConsume\InstagramConsume.Service\bin\Debug\netstandard2.0\InstagramConsume.Service.deps.json
+C:\Users\Pane\source\repos\InstagramConsume\InstagramConsume.Service\bin\Debug\netstandard2.0\InstagramConsume.Service.dll
+C:\Users\Pane\source\repos\InstagramConsume\InstagramConsume.Service\bin\Debug\netstandard2.0\InstagramConsume.Service.pdb
+C:\Users\Pane\source\repos\InstagramConsume\InstagramConsume.Service\obj\Debug\netstandard2.0\InstagramConsume.Service.AssemblyInfoInputs.cache
+C:\Users\Pane\source\repos\InstagramConsume\InstagramConsume.Service\obj\Debug\netstandard2.0\InstagramConsume.Service.AssemblyInfo.cs
+C:\Users\Pane\source\repos\InstagramConsume\InstagramConsume.Service\obj\Debug\netstandard2.0\InstagramConsume.Service.csproj.CoreCompileInputs.cache
+C:\Users\Pane\source\repos\InstagramConsume\InstagramConsume.Service\obj\Debug\netstandard2.0\InstagramConsume.Service.dll
+C:\Users\Pane\source\repos\InstagramConsume\InstagramConsume.Service\obj\Debug\netstandard2.0\InstagramConsume.Service.pdb
